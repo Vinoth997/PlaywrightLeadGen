@@ -1,0 +1,114 @@
+{
+	"Frontend": [
+		"ReactJS",
+		"Angular",
+		"NextJS"
+	],
+	"BackendOne": [
+		"Nodejs",
+		"ExpressJS",
+		"NestJS",
+		"Medusa",
+		"PHP"
+	],
+	"BackendTwo": [
+		"Django",
+		"FastAPI",
+		"Flask",
+		"Spring Boot"
+	],
+	"BackendThree": [
+		"Laravel",
+		"Go",
+		"Golang",
+		"Gin",
+		"Echo",
+		"ASP .Net"
+	],
+	"BackendFour": [
+		"Java",
+		"WPF",
+		"MAUI",
+		"Python"
+	],
+	"BackendFive": [
+		"C#",
+		".NET Core",
+		".NET MVC",
+		".NET Blazor"
+	],
+	"AI_ML": [
+		"RAG",
+		"Langchain",
+		"PyTorch",
+		"Streamlit"
+	],
+	"Mobile_App": [
+		"Dart",
+		"Flutter",
+		"React Native",
+		"Android",
+		"Kotlin",
+		"Swift",
+		"iOS"
+	],
+	"Design_Tools": [
+		"Figma"
+	],
+	"QA": [
+		"Selenium",
+		"WebDriver IO",
+		"Appium",
+		"Selenium IDE",
+		"Postman",
+		"RestAssured",
+		"Playwright",
+		"Cypress",
+		"JMeter"
+	],
+	"Amazon_AWS_One": [
+		"EC2",
+		"RDS",
+		"SNS",
+		"S3 Bucket",
+		"Elastic Search"
+	],
+	"Amazon_AWS_Two": [
+		"Cognito",
+		"VPC",
+		"Lambda",
+		"Prediction",
+		"SES",
+		"SQS"
+	],
+	"GCP_One": [
+		"BigQuery",
+		"Cloud SQL",
+		"Google API",
+		"Google Recommendation"
+	],
+	"GCP_Two": [
+		"Google Analytics",
+		"Google App Engine",
+		"Google Script",
+		"Firestore"
+	],
+	"Azure": [
+		"Azure Devops",
+		"Microsoft BOT",
+		"Azure Key Vault"
+	],
+	"Others": [
+		"ArgoCD",
+		"Grafana",
+		"Prometheus",
+		"Terraform",
+		"Ansible",
+		"Docker",
+		"Kubernetes"
+	],
+	"Pipeline": [
+		"Jenkins",
+		"GitLab CI/CD"
+	]
+}
